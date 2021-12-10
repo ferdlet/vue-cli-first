@@ -16,6 +16,5 @@ export default {
   width: 80%;
   margin: 0 auto;
   background-color: lightgreen;
-  position: relative;
 }
 </style>
